@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313237359510",
+    "firebase_url": "https://fplfirebaseproject-e0a99.firebaseio.com",
+    "project_id": "fplfirebaseproject-e0a99",
+    "storage_bucket": "fplfirebaseproject-e0a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313237359510:android:7218205383bbace131abb7",
+        "android_client_info": {
+          "package_name": "com.example.app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313237359510-5pbk64lrg2g9v4lh3dlk0cidt909fjtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_test",
+            "certificate_hash": "0abaf8ff71748a19b97d669d0596694db67cdf53"
+          }
+        },
+        {
+          "client_id": "313237359510-4t9k404hs04ibb9h7b8raavuk3bsv5v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnpOSg902MNdbmoNBfKa28XtkZ6-voAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313237359510-4t9k404hs04ibb9h7b8raavuk3bsv5v8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313237359510-e091shqqm5s7u5do8u9ob1gt6gbbr9k4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telegramApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
